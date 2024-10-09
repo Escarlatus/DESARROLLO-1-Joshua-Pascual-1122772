@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Hello world (programa numero 1)\Hello world (programa numero 1)\bin\Debug\net8.0\Hello world (programa numero 1).exe
+C:\Users\Asus\source\repos\Hello world (programa numero 1)\Hello world (programa numero 1)\bin\Debug\net8.0\Hello world (programa numero 1).deps.json
+C:\Users\Asus\source\repos\Hello world (programa numero 1)\Hello world (programa numero 1)\bin\Debug\net8.0\Hello world (programa numero 1).runtimeconfig.json
+C:\Users\Asus\source\repos\Hello world (programa numero 1)\Hello world (programa numero 1)\bin\Debug\net8.0\Hello world (programa numero 1).dll
+C:\Users\Asus\source\repos\Hello world (programa numero 1)\Hello world (programa numero 1)\bin\Debug\net8.0\Hello world (programa numero 1).pdb
+C:\Users\Asus\source\repos\Hello world (programa numero 1)\Hello world (programa numero 1)\obj\Debug\net8.0\Hello world (programa numero 1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Hello world (programa numero 1)\Hello world (programa numero 1)\obj\Debug\net8.0\Hello world (programa numero 1).AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Hello world (programa numero 1)\Hello world (programa numero 1)\obj\Debug\net8.0\Hello world (programa numero 1).AssemblyInfo.cs
+C:\Users\Asus\source\repos\Hello world (programa numero 1)\Hello world (programa numero 1)\obj\Debug\net8.0\Hello world (programa numero 1).csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Hello world (programa numero 1)\Hello world (programa numero 1)\obj\Debug\net8.0\Hello world (programa numero 1).dll
+C:\Users\Asus\source\repos\Hello world (programa numero 1)\Hello world (programa numero 1)\obj\Debug\net8.0\refint\Hello world (programa numero 1).dll
+C:\Users\Asus\source\repos\Hello world (programa numero 1)\Hello world (programa numero 1)\obj\Debug\net8.0\Hello world (programa numero 1).pdb
+C:\Users\Asus\source\repos\Hello world (programa numero 1)\Hello world (programa numero 1)\obj\Debug\net8.0\Hello world (programa numero 1).genruntimeconfig.cache
+C:\Users\Asus\source\repos\Hello world (programa numero 1)\Hello world (programa numero 1)\obj\Debug\net8.0\ref\Hello world (programa numero 1).dll
